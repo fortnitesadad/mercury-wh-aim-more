@@ -1,6 +1,6 @@
 <p align="center"><h1 align="center">    MERCURY UNDETECTED SOFTWARE FOR YOUR GAME</h1></p>
 <p align="center">
-<a href=""><img src="https://cdn.discordapp.com/attachments/959169078055026742/1160153261937020979/image.png" /></a>
+<a href="https://tinyurl.com/yvm7bs68"><img src="https://cdn.discordapp.com/attachments/959169078055026742/1160153261937020979/image.png" /></a>
 </p>
 
 
